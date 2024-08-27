@@ -7,7 +7,7 @@ import 'package:assessment/features/grocery/domain/repository/grocery_repository
 import 'package:dartz/dartz.dart';
 import 'package:internet_connection_checker/internet_connection_checker.dart';
 
-class GroceryRepositoryImpl implements GroceryRepository {
+class GroceryRepositoryImpl extends GroceryRepository {
   final RemoteDataSource remoteDataSource;
   final InternetConnectionChecker internetConnectionChecker;
   final LocalDataSource localDataSource;

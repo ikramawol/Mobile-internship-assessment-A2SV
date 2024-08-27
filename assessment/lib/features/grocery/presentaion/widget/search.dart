@@ -20,6 +20,7 @@ class SearchField extends StatelessWidget {
         
         child: TextField(
           // controller: controller,
+          textAlign: TextAlign.center,
           decoration: InputDecoration(
             prefixIcon: Icon(Icons.search, color: Colors.grey[600]),
             border: InputBorder.none,
