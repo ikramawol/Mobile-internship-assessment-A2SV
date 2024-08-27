@@ -2,7 +2,7 @@
 
 ## Grocery App
 
-![Splash](images/splash.jpg)
-![Home](images/home.jpg)
+![Splash](Mobile-internship-assessment-A2SV/image/splash.jpg)
+![Home](Mobile-internship-assessment-A2SV/image/home.jpg)
 
 
